@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XOR Encoding", "XOR Encoding\XOR Encoding.csproj", "{447779D9-5026-488C-A3FA-6DC537332697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{447779D9-5026-488C-A3FA-6DC537332697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447779D9-5026-488C-A3FA-6DC537332697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447779D9-5026-488C-A3FA-6DC537332697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447779D9-5026-488C-A3FA-6DC537332697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC6B01B5-DE19-4238-AD5C-66B9F485EFBC}
+	EndGlobalSection
+EndGlobal
